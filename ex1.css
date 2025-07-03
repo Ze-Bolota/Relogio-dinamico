@@ -1,0 +1,33 @@
+        body {
+        background: burlywood;
+        font: normal 15pt Arial;
+        } 
+
+        header {
+                color: white;
+                text-align: center;
+
+        }
+
+        section {
+                background: white;
+                border-radius: 15px; /*Borda das div's*/
+                width: auto;
+                height: auto; /* se ajusta com a tela*/ 
+                max-width: 45%; /* Maximo em tela cheia*/
+                max-height: 60%;
+                padding: 15px;
+                margin: auto; /*Centraliza na tela*/
+                box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.400); /*Sombra da section*/
+        }
+        div {
+                text-align: center;
+                padding: -3px;  /* 7px de espaço entre o conteúdo e a borda em todos os lados */
+                /*Padding preenchimento e margin margem exter*/
+        }
+        footer#ft1 {
+                color: white;
+                text-align: center;
+                font-style: italic;
+                margin-top: 25px;
+        }
