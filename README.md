@@ -33,7 +33,7 @@ O relógio começará a funcionar automaticamente, e você verá as mudanças de
 ![Relógio em Funcionamento!][funcionalidade.png]
 
 ## **🛠️ Tecnologias Utilizadas**
-* HTML5: Para a estrutura básica da página (index.html).
+* HTML5: Para a estrutura básica da página (Relógio dinâmico.html).
 
 * CSS3: Para estilização e layout, definindo a aparência dos elementos (ex1.css).
 
@@ -60,7 +60,7 @@ Define os estilos gerais do body (background, fonte).
 
 Estiliza o header, section (com bordas arredondadas e sombra) e footer.
 
-Centraliza o texto dentro de divs e ajusta o padding (embora padding: -3px; possa não ter o efeito desejado, pois padding não aceita valores negativos).
+Centraliza o texto dentro de divs e ajusta o padding.
 
 * ex1.js:
 
